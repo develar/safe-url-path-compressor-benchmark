@@ -1,0 +1,26 @@
+lockfileVersion: 5.3
+
+specifiers:
+  jsoncrush: ^1.1.6
+  lz-string: ^1.4.4
+  rison-node: ^2.1.1
+
+dependencies:
+  jsoncrush: 1.1.6
+  lz-string: 1.4.4
+  rison-node: 2.1.1
+
+packages:
+
+  /jsoncrush/1.1.6:
+    resolution: {integrity: sha512-oLNi8zgT872yK7BBNM9r2Q3BAUf8Uuq+fbP0KZU5GISA87thlzHRqWkk3FcetUmMeW7MrPNLPtpZ0h/AZFFrNw==}
+    dev: false
+
+  /lz-string/1.4.4:
+    resolution: {integrity: sha1-wNjq82BZ9wV5bh40SBHPTEmNOiY=}
+    hasBin: true
+    dev: false
+
+  /rison-node/2.1.1:
+    resolution: {integrity: sha512-GuV0OnSL2erZJ0j/9YUsrAdfSh3mGcrq+4wM4PqRftOYT7+TRhxbMrpVZaGC5YIPwncIoOM7PPnskDku5Ywg1Q==}
+    dev: false
